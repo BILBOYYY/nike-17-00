@@ -51,8 +51,30 @@ body {
 
 /* just */
 /* express */
-
-
+.h1__tittle {
+    font-size: 24px;
+line-height: 18px;
+color: #2E2E3C;
+text-align: center;
+padding-bottom: 49px;
+}
+.item__express{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    column-gap: 30px;
+}
+.item {
+    position: relative;
+}
+.item1__ul{
+    font-size: 24px;
+    line-height: 24px;
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
 
 /* express */
 /* footer */
